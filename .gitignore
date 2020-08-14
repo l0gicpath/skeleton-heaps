@@ -1,0 +1,3 @@
+export/**/*.hl
+export/**/*.js
+export/**/*.map.js
